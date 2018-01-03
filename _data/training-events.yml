@@ -124,21 +124,6 @@
   link: http://www.kcdc.info/
   where: Kansas City, MO
   tags: [in-person, conference]
-- title: Microsoft Ignite
-  desc: |
-    Microsoft Ignite gives you five days of hands-on learning, industry insights, and direct access to product experts—all in one place. 
-    
-    700+ sessions
-    Interactive Digital Labs
-    Direct access to product experts
-    Deep dives and demos
-    300+ partners at the expo
-    Product roadmaps, vision, and strategies
-  startDate: 2017-8-25
-  endDate: 2017-8-29
-  link: https://ignite.microsoft.com/
-  where: Orlando, FL
-  tags: [in-person, conference]
 - title: VMworld 2017
   desc: |
     VMworld is VMware’s premier thought leadership and education destination for cloud infrastructure and digital workspace technology professionals. Join us for five days of innovation and learn new skills, hear expert insights and gain the tools to enable business success.
@@ -168,6 +153,14 @@
   link: https://thestrangeloop.com/
   where: St Louis, MO
   tags: [in-person, conference]
+- title: Hacktoberfest 2017
+  desc: |
+    Support open source and earn a limited edition T-shirt.
+    Hacktoberfest is a month-long celebration of open source software in partnership with Github.
+  startDate: 2017-10-01
+  endDate: 2017-10-31
+  link: https://hacktoberfest.digitalocean.com/
+  tags: [online, hackathon]
 - title: Little Rock Tech Fest
   desc: |
     Little Rock Tech Fest is an annual developer conference featuring popular web, mobile, database, devops and related developer topics from industry leaders. It is the event in Little Rock for both professional and aspiring software developers. Speakers from across the country come to present. Students and professionals from across Arkansas and surrounding regions come to learn and network with peers.
@@ -175,8 +168,8 @@
     Our purpose is to encourage local professionals to increase their skills and to promote the Little Rock region to both experienced and aspiring developers and students.
     
     This is our fifth year hosting the event. Will you join us?
-  startDate: 2017-10-5
-  endDate: 2017-10-6
+  startDate: 2017-10-05
+  endDate: 2017-10-06
   link: http://www.lrtechfest.com/
   where: Little Rock, AR
   tags: [in-person, conference]  
@@ -214,4 +207,35 @@
   endDate: 2017-11-2
   link: https://www.spintersection.com/#!/Fall-2017
   where: Las Vegas, NV
+  tags: [in-person, conference]
+- title: PASS Summit 2017
+  desc: |
+    PASS Summit connects you with industry experts and global data professionals in a unique learning environment that empowers you with the practical knowledge you need to excel in your career.
+  startDate: 2017-10-31
+  endDate: 2017-11-3
+  link: http://www.pass.org/summit/2017/Home.aspx
+  where: Seattle, WA
+  tags: [in-person, conference]
+- title: DeveloperWeek 2018
+  desc: |
+    Join 8,000 attendees at one of San Francisco’s largest technology-neutral programming conferences & expos. See the full agenda of talks. Join us for the Expo Block party.
+  startDate: 2018-2-03
+  endDate: 2018-2-08
+  link: http://www.developerweek.com//
+  where: San Francisco
+  tags: [in-person, conference]
+- title: Microsoft Ignite
+  desc: |
+    Microsoft Ignite gives you five days of hands-on learning, industry insights, and direct access to product experts—all in one place. 
+    
+    700+ sessions
+    Interactive Digital Labs
+    Direct access to product experts
+    Deep dives and demos
+    300+ partners at the expo
+    Product roadmaps, vision, and strategies
+  startDate: 2018-9-24
+  endDate: 2018-9-28
+  link: https://ignite.microsoft.com/
+  where: Orlando, FL
   tags: [in-person, conference]
