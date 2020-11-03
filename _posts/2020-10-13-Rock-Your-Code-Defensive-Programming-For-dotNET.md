@@ -1,8 +1,6 @@
-
-
 ---
 layout: post
-title: October Meeting - RÖCK YOÜR CÖDE: DEFENSIVE PROGRAMMING FOR MICROSOFT .NET
+title: "October Meeting - RÖCK YOÜR CÖDE: DEFENSIVE PROGRAMMING FOR MICROSOFT .NET"
 speaker: David McCarter
 ---
 
